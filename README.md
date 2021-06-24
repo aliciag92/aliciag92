@@ -24,12 +24,14 @@
 ![](https://img.shields.io/static/v1?message=Seaborn&logo=python&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=NLTK&logo=python&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Trello&logo=trello&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=DeepNote&logo=deepnote&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Markdown&logo=markdown&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Trello&logo=trello&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Canva&logo=canva&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Tableau&logo=tableau&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=PowerBi&logo=Power%20BI&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=MicrosoftOffice&logo=microsoft-office&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=GoogleSheets&logo=google-sheets&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=GoogleAnalytics&logo=google-analytics&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ***
 # Hello! 👋🏼
